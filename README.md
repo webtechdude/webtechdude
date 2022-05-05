@@ -11,8 +11,8 @@
 <p align="left">
 <a href="https://codepen.io/web-tech-dude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="web-tech-dude" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/webtechdude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="webtechdude" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/tech it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tech it" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucxkgzugqylxtirfr4-sxyza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxkgzugqylxtirfr4-sxyza" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/14395278/web-tech-dude" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="tech it" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCXKgzUGQylXtirfR4-SxyzA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucxkgzugqylxtirfr4-sxyza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
